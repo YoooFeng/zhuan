@@ -1,0 +1,15 @@
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\bin\Release\zhuan.exe.config
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\bin\Release\zhuan.exe
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\bin\Release\zhuan.pdb
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\obj\Release\zhuan.csprojResolveAssemblyReference.cache
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\obj\Release\MainWindow.baml
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\obj\Release\StartWindow.baml
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\obj\Release\MainWindow.g.cs
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\obj\Release\StartWindow.g.cs
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\obj\Release\App.g.cs
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\obj\Release\zhuan_MarkupCompile.cache
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\obj\Release\zhuan.g.resources
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\obj\Release\zhuan.Properties.Resources.resources
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\obj\Release\zhuan.csproj.GenerateResource.Cache
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\obj\Release\zhuan.exe
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\obj\Release\zhuan.pdb

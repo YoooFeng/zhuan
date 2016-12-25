@@ -1,0 +1,71 @@
+c:\users\郑勇俊\documents\visual studio 2013\Projects\zhuan\zhuan\bin\Debug\zhuan.exe.config
+c:\users\郑勇俊\documents\visual studio 2013\Projects\zhuan\zhuan\obj\Debug\zhuan.csprojResolveAssemblyReference.cache
+c:\users\郑勇俊\documents\visual studio 2013\Projects\zhuan\zhuan\obj\Debug\MainWindow.baml
+c:\users\郑勇俊\documents\visual studio 2013\Projects\zhuan\zhuan\obj\Debug\MainWindow.g.cs
+c:\users\郑勇俊\documents\visual studio 2013\Projects\zhuan\zhuan\obj\Debug\App.g.cs
+c:\users\郑勇俊\documents\visual studio 2013\Projects\zhuan\zhuan\obj\Debug\zhuan_MarkupCompile.cache
+c:\users\郑勇俊\documents\visual studio 2013\Projects\zhuan\zhuan\obj\Debug\zhuan.g.resources
+c:\users\郑勇俊\documents\visual studio 2013\Projects\zhuan\zhuan\obj\Debug\zhuan.Properties.Resources.resources
+c:\users\郑勇俊\documents\visual studio 2013\Projects\zhuan\zhuan\obj\Debug\zhuan.csproj.GenerateResource.Cache
+c:\users\郑勇俊\documents\visual studio 2013\Projects\zhuan\zhuan\bin\Debug\zhuan.exe
+c:\users\郑勇俊\documents\visual studio 2013\Projects\zhuan\zhuan\bin\Debug\zhuan.pdb
+c:\users\郑勇俊\documents\visual studio 2013\Projects\zhuan\zhuan\obj\Debug\zhuan.exe
+c:\users\郑勇俊\documents\visual studio 2013\Projects\zhuan\zhuan\obj\Debug\zhuan.pdb
+D:\zhuan\zhuan\bin\Debug\zhuan.exe.config
+D:\zhuan\zhuan\obj\Debug\zhuan.exe
+D:\zhuan\zhuan\obj\Debug\zhuan.pdb
+D:\zhuan\zhuan\obj\Debug\zhuan.csprojResolveAssemblyReference.cache
+D:\zhuan\zhuan\obj\Debug\MainWindow.baml
+D:\zhuan\zhuan\obj\Debug\MainWindow.g.cs
+D:\zhuan\zhuan\obj\Debug\App.g.cs
+D:\zhuan\zhuan\obj\Debug\zhuan_MarkupCompile.cache
+D:\zhuan\zhuan\obj\Debug\zhuan.g.resources
+D:\zhuan\zhuan\obj\Debug\zhuan.Properties.Resources.resources
+D:\zhuan\zhuan\obj\Debug\zhuan.csproj.GenerateResource.Cache
+D:\zhuan\zhuan\bin\Debug\zhuan.exe
+D:\zhuan\zhuan\bin\Debug\zhuan.pdb
+C:\Users\郑勇俊\Documents\zhuan\zhuan\bin\Debug\zhuan.exe.config
+C:\Users\郑勇俊\Documents\zhuan\zhuan\obj\Debug\zhuan.exe
+C:\Users\郑勇俊\Documents\zhuan\zhuan\obj\Debug\zhuan.pdb
+C:\Users\郑勇俊\Documents\zhuan\zhuan\bin\Debug\zhuan.exe
+C:\Users\郑勇俊\Documents\zhuan\zhuan\bin\Debug\zhuan.pdb
+C:\Users\郑勇俊\Documents\zhuan\zhuan\obj\Debug\zhuan.csprojResolveAssemblyReference.cache
+C:\Users\郑勇俊\Documents\zhuan\zhuan\obj\Debug\MainWindow.baml
+C:\Users\郑勇俊\Documents\zhuan\zhuan\obj\Debug\MainWindow.g.cs
+C:\Users\郑勇俊\Documents\zhuan\zhuan\obj\Debug\App.g.cs
+C:\Users\郑勇俊\Documents\zhuan\zhuan\obj\Debug\zhuan_MarkupCompile.cache
+C:\Users\郑勇俊\Documents\zhuan\zhuan\obj\Debug\zhuan.g.resources
+C:\Users\郑勇俊\Documents\zhuan\zhuan\obj\Debug\zhuan.Properties.Resources.resources
+C:\Users\郑勇俊\Documents\zhuan\zhuan\obj\Debug\zhuan.csproj.GenerateResource.Cache
+C:\Users\郑勇俊\Documents\zhuan\zhuan\obj\Debug\StartWindow.baml
+C:\Users\郑勇俊\Documents\zhuan\zhuan\obj\Debug\StartWindow.g.cs
+E:\我的课程\新建文件夹\zhuan\zhuan\bin\Debug\zhuan.exe.config
+E:\我的课程\新建文件夹\zhuan\zhuan\obj\Debug\zhuan.exe
+E:\我的课程\新建文件夹\zhuan\zhuan\obj\Debug\zhuan.pdb
+E:\我的课程\新建文件夹\zhuan\zhuan\bin\Debug\zhuan.exe
+E:\我的课程\新建文件夹\zhuan\zhuan\bin\Debug\zhuan.pdb
+E:\我的课程\新建文件夹\zhuan\zhuan\obj\Debug\zhuan.csprojResolveAssemblyReference.cache
+E:\我的课程\新建文件夹\zhuan\zhuan\obj\Debug\MainWindow.baml
+E:\我的课程\新建文件夹\zhuan\zhuan\obj\Debug\StartWindow.baml
+E:\我的课程\新建文件夹\zhuan\zhuan\obj\Debug\MainWindow.g.cs
+E:\我的课程\新建文件夹\zhuan\zhuan\obj\Debug\StartWindow.g.cs
+E:\我的课程\新建文件夹\zhuan\zhuan\obj\Debug\App.g.cs
+E:\我的课程\新建文件夹\zhuan\zhuan\obj\Debug\zhuan_MarkupCompile.cache
+E:\我的课程\新建文件夹\zhuan\zhuan\obj\Debug\zhuan.g.resources
+E:\我的课程\新建文件夹\zhuan\zhuan\obj\Debug\zhuan.Properties.Resources.resources
+E:\我的课程\新建文件夹\zhuan\zhuan\obj\Debug\zhuan.csproj.GenerateResource.Cache
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\bin\Debug\zhuan.exe.config
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\bin\Debug\zhuan.exe
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\bin\Debug\zhuan.pdb
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\obj\Debug\zhuan.csprojResolveAssemblyReference.cache
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\obj\Debug\MainWindow.baml
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\obj\Debug\StartWindow.baml
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\obj\Debug\MainWindow.g.cs
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\obj\Debug\StartWindow.g.cs
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\obj\Debug\App.g.cs
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\obj\Debug\zhuan_MarkupCompile.cache
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\obj\Debug\zhuan.g.resources
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\obj\Debug\zhuan.Properties.Resources.resources
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\obj\Debug\zhuan.csproj.GenerateResource.Cache
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\obj\Debug\zhuan.exe
+E:\workspace\Visual Studio\Projects\zhuan\zhuan\obj\Debug\zhuan.pdb
